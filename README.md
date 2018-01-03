@@ -1,4 +1,4 @@
-# Bash-Programs
+# Bash Programs
 Four simple bash scripts that do not include built-in bash commands.
 
 1) count.sh - builds a table of counters for the commands under /bin in alphabetical order.
